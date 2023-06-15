@@ -24,7 +24,7 @@ div.lesson-four-task-six button.btn:focus {
     background-color: orange;
 }
 
-div.lesson-four-task-seven div#target:target ~ a[href='#target'] {
+div.lesson-four-task-seven div#target:target {
     color: white;
     background-color: green;
 }
